@@ -4,4 +4,8 @@
 
 ![AAS](https://github.com/guslyakovao/datalearn/blob/main/de101/module01/ProductionData_before_220530.jpg)
 
-## 2.
+## 2. Прочитала про GitHub на русском
+
+## 3. Прошла курс introduction into Shell
+
+## 4. 
